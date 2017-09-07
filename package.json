@@ -5,9 +5,14 @@
   "main": "index.js",
   "author": "balasekar",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
   "dependencies": {
     "html-webpack-plugin": "^2.30.1",
     "path": "^0.12.7",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
     "webpack": "^3.5.6",
     "webpack-dev-server": "^2.7.1"
   },
