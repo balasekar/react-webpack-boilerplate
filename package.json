@@ -1,0 +1,13 @@
+{
+  "name": "react-webpack-boilerplate",
+  "version": "0.0.1",
+  "description": "Project to learn webpack with React",
+  "main": "index.js",
+  "author": "balasekar",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^3.5.6",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
